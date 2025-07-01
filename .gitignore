@@ -1,0 +1,5 @@
+# Arquivos de ambiente
+.env
+
+# Pasta de módulos do Node (gerada automaticamente pelo npm install)
+node_modules/
